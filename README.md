@@ -5,6 +5,7 @@
 ## :octocat: I'm AKSHAY
 
 A student pursuing a BTech in Computer Science Engineering at College of Engineering Munnar, Kerala.
+focusing on python,web devoloping and programing.
 
 
 </br>
