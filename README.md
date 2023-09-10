@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/94843189/155374750-6f8af9f4-c60f-4618-8b67-b7e4d3399ece.jpg"/>
+<img src="https://github.com/Akshay-s-nair/Akshay-s-nair/blob/main/I-am-Akshay-10-9-2023.gif"/>
 
 
 ## :octocat: I'm AKSHAY  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
