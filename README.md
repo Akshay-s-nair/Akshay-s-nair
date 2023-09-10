@@ -14,7 +14,7 @@ focusing on python,web development and Data Analysis.
 
 
 ## 💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,c,c++)]()
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,c,cpp,flask)]()
 
 
 
@@ -22,8 +22,8 @@ focusing on python,web development and Data Analysis.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/Akshay-s-nair)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/a_kshay_nair_mzk?utm_medium=copy_link)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Akshay.snair.12345)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/AnumodTp15156)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Akshay.snair.12345)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]([https://twitter.com/AnumodTp15156](https://twitter.com/AkshayS46643537?t=6jlZZRQJ84DhntZIq9-agw&s=09))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaysnairunni@gmail.com)
 <!---
 Akshay-s-nair/Akshay-s-nair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
