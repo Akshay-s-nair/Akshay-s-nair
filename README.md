@@ -4,7 +4,7 @@
 
 ## :octocat: I'm AKSHAY  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-A student pursuing BTech in Computer Science Engineering at College of Engineering Munnar, Kerala.
+A student pursuing BTech in Computer Science and Engineering from College of Engineering Munnar, Kerala.
 focusing on python,web development and Data Analysis.
 
 
