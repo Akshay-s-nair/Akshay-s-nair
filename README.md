@@ -1,10 +1,19 @@
 
+
+<div align="center"> 
+<h1>Howdy Fellas <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+</div>
+<div align="center">
 <img src="https://github.com/Akshay-s-nair/Akshay-s-nair/blob/main/me.gif.gif"/>
+</div>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Akshay-s-nair/count.svg" />
+</p>
 
+## About me 
 
-## :octocat: I'm AKSHAY  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
-A student pursuing BTech in Computer Science and Engineering from College of Engineering Munnar, Kerala.
+I'm Akshay, A student pursuing BTech in Computer Science and Engineering from College of Engineering Munnar, Kerala.
 focusing on python,web development and Data Analysis.
 
 
@@ -16,7 +25,9 @@ focusing on python,web development and Data Analysis.
 ## 💻 Skills
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,c,cpp,flask)]()
 
-
+ <a href="https://github.com/Akshay-s-nair/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-s-nair&layout=compact&theme=buefy&hide_border=true" /></a> 
+ <br/>
+ <br/>
 
 ## 📱 Get in touch:
 
